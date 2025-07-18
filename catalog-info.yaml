@@ -17,8 +17,8 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: java-app-6-actuator-api
-  title: Java App 6 Actuator API
+  name: java-app-10-actuator-api
+  title: Java App 10 Actuator API
   description: Spring Boot Actuator endpoints for monitoring and management
 spec:
   type: openapi
