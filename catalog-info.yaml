@@ -11,7 +11,7 @@ spec:
   type: service
   owner: development
   lifecycle: experimental 
-  providedApis:
+  providesApis:
     - java-app-10-actuator-api
 ---
 apiVersion: backstage.io/v1alpha1
